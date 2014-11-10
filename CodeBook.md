@@ -1,5 +1,4 @@
 # Data sets
-
 ## Raw data
 
 Following expression was used to create raw dataset `-(mean|std)[(]`.
