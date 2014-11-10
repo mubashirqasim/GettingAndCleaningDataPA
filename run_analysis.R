@@ -1,5 +1,4 @@
 #### Getting anc Cleaing Data Peer Assignment ####
-
 # Clear the existing objects
 rm(list=ls())
 
