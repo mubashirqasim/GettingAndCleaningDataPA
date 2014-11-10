@@ -18,4 +18,3 @@ The script contains a function `data.cleaner()` which performs the following job
  * writes the tidy dataset to `tidydata.csv` and `tidydata.txt`
  
 *Note*: Please make sure `run_analysis.R` resides in the current working directory.
-
